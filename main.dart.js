@@ -51079,7 +51079,7 @@ A.Fm.prototype={
 aZ(){var s=this.d,r=J.av(s)
 if(!r.gE(s))J.bE(r.gD(s))
 this.bx()},
-O(a,b){return new A.qC(A.aO(["/",new A.Zv(),"/feature",new A.Zw(),"/ajari",new A.Zx()],t.N,t.hw),"/","Nur Syahfei",A.a7g(B.a3),!1,null)}}
+O(a,b){return new A.qC(A.aO(["/",new A.Zv(),"/feature",new A.Zw(),"/ajari-privacy",new A.Zx()],t.N,t.hw),"/","Nur Syahfei",A.a7g(B.a3),!1,null)}}
 A.Zv.prototype={
 $1(a){return B.wO},
 $S:326}
