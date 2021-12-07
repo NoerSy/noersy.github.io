@@ -53526,9 +53526,9 @@ else if(s<1600)return 70
 else return 100},
 P(a,b){return new A.Ak(new A.a_1(this),null)}}
 A.a_1.prototype={
-$2(a,b){var s,r,q,p=null,o=this.a.HC(b),n=A.a([],t.E),m=b.a<1500?1:2,l=J.a8A(m,t.S)
-for(s=0;s<m;++s)l[s]=s
-r=l.length
+$2(a,b){var s,r,q,p=null,o=this.a.HC(b),n=A.a([],t.E),m=J.a8A(1,t.S)
+for(s=0;s<1;++s)m[s]=s
+r=m.length
 q=0
 for(;q<r;++q)n.push(new A.th(p))
 return A.j1(p,A.CC(n,B.bc,B.B3,B.bo),B.t,p,p,p,p,B.x3,new A.aZ(o,100,o,100),p,p,p)},
