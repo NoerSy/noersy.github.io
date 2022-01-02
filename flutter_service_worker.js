@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "ee19d2de08b86648975ae77b62a5abc4",
-"/": "ee19d2de08b86648975ae77b62a5abc4",
+  "index.html": "ff3c8d7c47c7d15573c5ab8c0388b54e",
+"/": "ff3c8d7c47c7d15573c5ab8c0388b54e",
 "canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
 "canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
 "canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
 "canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
 "version.json": "39bf432a0dc524509995a31815b3f360",
-"assets/NOTICES": "88e541264057bd84d92d9803a84322c6",
+"assets/NOTICES": "951abacc2605d6d08ed868ae1386c315",
 "assets/AssetManifest.json": "0d155debfbfccc5c9bb41288a090ba02",
 "assets/assets/images/ajari/7.png": "8f13e6435bdda02f87f4b3b1e1a2f7d3",
 "assets/assets/images/ajari/4.png": "f2c4321dfde276bbf0bf88446c3ded3b",
@@ -25,7 +25,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "f88b3fa98876564f92af3951fab046e7",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "favicon.png": "d31390a32dd95e8885264113dfa6247c",
-"main.dart.js": "ae79b2f4cfd1e614ef87c7c3fa94b6a2",
+"main.dart.js": "061a1a10252c135aa70e6313eb1370fa",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-192.png": "d31390a32dd95e8885264113dfa6247c",
